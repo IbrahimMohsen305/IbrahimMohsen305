@@ -1,112 +1,156 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A2540,100:00B4D8&height=200&section=header&text=Ibrahim%20Mohsen&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Front-End%20Developer%20%7C%20UI%20Architect%20%7C%20Digital%20Craftsman&descAlignY=60&descSize=16&animation=fadeIn"/>
+<div align="center">
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:0A1628,100:00B4D8&height=220&section=header&text=Ibrahim%20Mohsen&fontSize=56&fontColor=FFFFFF&fontAlignY=40&desc=Front-End%20Developer%20%7C%20UI%20Architect%20%7C%20Cairo%2C%20Egypt%20%F0%9F%87%AA%F0%9F%87%AC&descAlignY=62&descSize=15&animation=twinkling"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=800&color=00B4D8&center=true&vCenter=true&width=700&lines=Crafting+interfaces+that+people+actually+want+to+use.;HTML+%E2%86%92+CSS+%E2%86%92+JS+%E2%86%92+shipped.;Clean+code+is+not+optional%2C+it%27s+the+product.;Currently+open+to+work+%F0%9F%87%AA%F0%9F%87%AC+Egypt%2FRemote" alt="Typing SVG" />
-</p>
+</div>
 
-<br/>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2500&pause=900&color=00B4D8&center=true&vCenter=true&width=750&lines=%24+whoami+--+Front-End+Developer;%24+status+--+open+to+work+%E2%9C%85;%24+stack+--+HTML+%7C+CSS+%7C+JS+%7C+Bootstrap+%7C+Laravel;%24+building+--+E-commerce+Platform+%F0%9F%9B%92;%24+goal+--+clean+UI+%2B+real+impact)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## `$ whoami`
+<div align="center">
 
-```js
-const ibrahim = {
-  role      : "Front-End Developer",
-  location  : "Cairo, Egypt 🇪🇬",
-  available : true,
-  focus     : ["Clean UI", "Real-world apps", "Performance"],
-  building  : "E-commerce platform (Laravel + Bootstrap)",
-  principle : "Ship it. Then make it beautiful. Then make it fast.",
-};
+```bash
+┌─────────────────────────────────────────────────────────────────┐
+│                   ibrahim@dev ~ $ ./profile.sh                  │
+├─────────────────────────────────────────────────────────────────┤
+│  Role      →  Front-End Developer                               │
+│  Location  →  Cairo, Egypt 🇪🇬                                  │
+│  Status    →  ✅ Open to Work (Junior / Mid-Level)              │
+│  Building  →  E-Commerce Platform (Laravel + Bootstrap)         │
+│  Certs     →  Cybersecurity 🔐                                  │
+│  Principle →  "Ship it. Make it beautiful. Make it fast."       │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
+</div>
+
 ---
 
-## 🛠️ Tech Stack
+## `$ cat tech_stack.json`
 
-<p align="center">
+<div align="center">
+
+### 🎨 Front-End
+![HTML5](https://img.shields.io/badge/HTML5-Expert-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117)
+![CSS3](https://img.shields.io/badge/CSS3-Expert-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-Solid-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Solid-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0D1117)
+
+### ⚙️ Back-End & DB
+![PHP](https://img.shields.io/badge/PHP-Learning-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=0D1117)
+![Laravel](https://img.shields.io/badge/Laravel-Learning-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=0D1117)
+![MySQL](https://img.shields.io/badge/MySQL-Solid-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117)
+![Python](https://img.shields.io/badge/Python-Solid-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)
+
+### 🔐 Security & Tools
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Certified-00B4D8?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0D1117)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0D1117)
+
+</div>
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,laravel,mysql,python,git,github,vscode&theme=dark&perline=11" />
-</p>
-
-<p align="center">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-expert-0D1117?style=flat-square&logo=html5&logoColor=E34F26&labelColor=0D1117"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-expert-0D1117?style=flat-square&logo=css3&logoColor=1572B6&labelColor=0D1117"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-solid-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=0D1117"/>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-solid-0D1117?style=flat-square&logo=bootstrap&logoColor=7952B3&labelColor=0D1117"/>
-  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-learning-0D1117?style=flat-square&logo=laravel&logoColor=FF2D20&labelColor=0D1117"/>
-</p>
+</div>
 
 ---
 
-## 📌 Pinned Projects
+## `$ ls -la projects/`
 
-| Project | Stack | Status | Link |
-|---------|-------|--------|------|
-| 🛒 **E-commerce UI** | HTML · Bootstrap · PHP | 🟡 In Progress | [View Repo](#) |
-| 🧮 **Calculator App** | HTML · CSS · JS | ✅ Done | [View Repo](#) |
-| 📊 **Dashboard UI** | HTML · CSS · Grid | ✅ Done | [View Repo](#) |
-| 🏭 **Manufacturing Site** | Bootstrap · PHP | 🔜 Planned | [View Repo](#) |
+<div align="center">
 
----
+| `#` | Project | Stack | Status | Link |
+|-----|---------|-------|--------|------|
+| 01 | 🛒 **E-Commerce Platform** | HTML · Bootstrap · PHP · Laravel | 🟡 In Progress | [→ View](#) |
+| 02 | 🧮 **Calculator App** | HTML · CSS · JavaScript | ✅ Shipped | [→ View](#) |
+| 03 | 📊 **Dashboard UI** | HTML · CSS · Grid | ✅ Shipped | [→ View](#) |
+| 04 | 🏭 **Manufacturing Site** | Bootstrap · PHP | 🔜 Planned | [→ View](#) |
+| 05 | 🌐 **Dev Portfolio** | HTML · CSS · JS | ✅ Live | [→ Live Site](https://ibrahim-devportfolio.kesug.com/) |
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=IbrahimMohsen305&show_icons=true&theme=github_dark&hide_border=false&border_color=0A2540&title_color=00B4D8&icon_color=00B4D8&text_color=CDD9E5&bg_color=0D1117&rank_icon=percentile&include_all_commits=true" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimMohsen305&layout=compact&theme=github_dark&hide_border=false&border_color=0A2540&title_color=00B4D8&text_color=CDD9E5&bg_color=0D1117&langs_count=6" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IbrahimMohsen305&theme=github-dark-blue&hide_border=false&stroke=0A2540&background=0D1117&ring=00B4D8&fire=FF6B6B&currStreakLabel=00B4D8&sideLabels=CDD9E5&dates=8B949E" />
-</p>
+</div>
 
 ---
 
-## 🐍 Contribution Activity
+## `$ git log --stat`
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-    <img alt="snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
-</p>
+<div align="center">
 
----
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=IbrahimMohsen305&show_icons=true&theme=github_dark&hide_border=true&title_color=00B4D8&icon_color=00B4D8&text_color=CDD9E5&bg_color=0D1117&rank_icon=percentile&include_all_commits=true&count_private=true" />
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimMohsen305&layout=compact&theme=github_dark&hide_border=true&title_color=00B4D8&text_color=CDD9E5&bg_color=0D1117&langs_count=6" />
 
-## 💬 Dev Philosophy
+</div>
 
-> *"First, solve the problem. Then, write the code."*
-> — John Johnson
+<div align="center">
 
-I believe in building things that **work**, not just things that **look good**.  
-Every component has a reason. Every line of CSS earns its place.
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IbrahimMohsen305&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00B4D8&fire=FF6B6B&currStreakLabel=00B4D8&sideLabels=CDD9E5&dates=8B949E" />
+
+</div>
 
 ---
 
-## 🤝 Let's Connect
+## `$ crontab -l  # contribution activity`
 
-<p align="center">
-  <a href="https://github.com/IbrahimMohsen305">
-    <img src="https://img.shields.io/badge/GitHub-IbrahimMohsen305-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0A2540&color=0D1117"/>
-  </a>
-  &nbsp;
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-Hire%20Me-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0A2540&color=0D1117"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0A2540&color=0D1117"/>
-  </a>
-</p>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</div>
+
+---
+
+## `$ cat philosophy.txt`
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║   "First, solve the problem. Then, write the code."  ║
+║                                                      ║
+║   Every pixel earns its place.                       ║
+║   Every component has a reason.                      ║
+║   Every line of CSS is a decision, not a guess.      ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## `$ ping ibrahim --connect`
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ibrahim--devportfolio.kesug.com-00B4D8?style=for-the-badge&labelColor=0A2540)](https://ibrahim-devportfolio.kesug.com/)
+
+&nbsp;
+
+[![GitHub](https://img.shields.io/badge/GitHub-IbrahimMohsen305-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0A2540)](https://github.com/IbrahimMohsen305)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ibrahim_Mohsen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A2540)](https://www.linkedin.com/in/ibrahim-mohsen-3bb548299/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A2540)](mailto:ibrahimmohsen305@gmail.com)
+
+</div>
 
 <br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IbrahimMohsen305&style=flat-square&color=00B4D8&label=PROFILE+VIEWS&labelColor=0A2540"/>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=IbrahimMohsen305&style=for-the-badge&color=00B4D8&label=PROFILE+VIEWS&labelColor=0A2540"/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,50:0A2540,100:0D1117&height=120&section=footer&animation=fadeIn"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,60:0A2540,100:0D1117&height=130&section=footer&animation=twinkling"/>
