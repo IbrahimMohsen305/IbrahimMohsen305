@@ -1,264 +1,112 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6C63FF,50:00B4D8,100:0D1117&height=250&section=header&text=Ibrahim%20Mohsen&fontSize=60&fontColor=FFFFFF&fontAlignY=45&desc=Front-End%20Developer%20%7C%20Cairo%2C%20Egypt%20%F0%9F%87%AA%F0%9F%87%AC&descAlignY=65&descSize=17&animation=fadeIn&stroke=6C63FF&strokeWidth=2"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A2540,100:00B4D8&height=200&section=header&text=Ibrahim%20Mohsen&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Front-End%20Developer%20%7C%20UI%20Architect%20%7C%20Digital%20Craftsman&descAlignY=60&descSize=16&animation=fadeIn"/>
 
 <br/>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+interfaces+people+love+to+use+%F0%9F%92%AB;HTML+%E2%86%92+CSS+%E2%86%92+JS+%E2%86%92+Shipped+%E2%9C%85;Clean+code+is+not+optional%2C+it%E2%80%99s+the+product;Open+to+work+%E2%80%94+Junior+%2F+Mid-Level+Front-End)](https://git.io/typing-svg)
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=800&color=00B4D8&center=true&vCenter=true&width=700&lines=Crafting+interfaces+that+people+actually+want+to+use.;HTML+%E2%86%92+CSS+%E2%86%92+JS+%E2%86%92+shipped.;Clean+code+is+not+optional%2C+it%27s+the+product.;Currently+open+to+work+%F0%9F%87%AA%F0%9F%87%AC+Egypt%2FRemote" alt="Typing SVG" />
+</p>
 
 <br/>
 
 ---
 
-<br/>
+## `$ whoami`
 
-## 🧑‍💻 About Me
-
-<table>
-<tr>
-<td width="55%">
-
-### Hi, I'm Ibrahim 👋
-
-I'm a **Front-End Developer** based in **Cairo, Egypt** with a passion for building clean, responsive, and user-focused web experiences.
-
-- 🔭 Currently building an **E-Commerce Platform** with Laravel & Bootstrap
-- 🔐 Certified in **Cybersecurity** — I think about security *while* I build
-- 🎯 Targeting **Junior / Mid-Level** Front-End roles
-- 🌐 Check my work → **[ibrahim-devportfolio.kesug.com](https://ibrahim-devportfolio.kesug.com/)**
-- 💡 Principle: *Ship it. Make it beautiful. Make it fast.*
-
-</td>
-<td width="45%" align="center">
-
-```json
-{
-  "name":      "Ibrahim Mohsen",
-  "role":      "Front-End Developer",
-  "location":  "Cairo, Egypt 🇪🇬",
-  "available": true,
-  "focus": [
-    "Clean UI",
-    "Performance",
-    "Real-world apps"
-  ],
-  "learning":  "Laravel & PHP"
-}
+```js
+const ibrahim = {
+  role      : "Front-End Developer",
+  location  : "Cairo, Egypt 🇪🇬",
+  available : true,
+  focus     : ["Clean UI", "Real-world apps", "Performance"],
+  building  : "E-commerce platform (Laravel + Bootstrap)",
+  principle : "Ship it. Then make it beautiful. Then make it fast.",
+};
 ```
 
-</td>
-</tr>
-</table>
+---
 
-<br/>
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,laravel,mysql,python,git,github,vscode&theme=dark&perline=11" />
+</p>
+
+<p align="center">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-expert-0D1117?style=flat-square&logo=html5&logoColor=E34F26&labelColor=0D1117"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-expert-0D1117?style=flat-square&logo=css3&logoColor=1572B6&labelColor=0D1117"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-solid-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=0D1117"/>
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-solid-0D1117?style=flat-square&logo=bootstrap&logoColor=7952B3&labelColor=0D1117"/>
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-learning-0D1117?style=flat-square&logo=laravel&logoColor=FF2D20&labelColor=0D1117"/>
+</p>
 
 ---
 
-<br/>
+## 📌 Pinned Projects
 
-## 🛠️ Tech Stack & Skills
-
-<br/>
-
-### 🎨 Front-End — *My Core*
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive-Design-00B4D8?style=for-the-badge&logo=googlechrome&logoColor=white)
-
-</div>
-
-<br/>
-
-### ⚙️ Back-End & Database
-
-<div align="center">
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-</div>
-
-<br/>
-
-### 🔐 Security & DevTools
-
-<div align="center">
-
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Certified-6C63FF?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white)
-
-</div>
-
-<br/>
-
-### 📊 Skill Levels
-
-<div align="center">
-
-| Skill | Level | Progress |
-|-------|-------|----------|
-| HTML5 | Expert | `████████████████████` 100% |
-| CSS3 | Expert | `████████████████████` 100% |
-| Bootstrap | Advanced | `████████████████░░░░` 80% |
-| JavaScript | Solid | `███████████████░░░░░` 75% |
-| MySQL | Solid | `███████████████░░░░░` 75% |
-| Python | Solid | `██████████████░░░░░░` 70% |
-| PHP | Learning | `██████████░░░░░░░░░░` 50% |
-| Laravel | Learning | `████████░░░░░░░░░░░░` 40% |
-
-</div>
-
-<br/>
+| Project | Stack | Status | Link |
+|---------|-------|--------|------|
+| 🛒 **E-commerce UI** | HTML · Bootstrap · PHP | 🟡 In Progress | [View Repo](#) |
+| 🧮 **Calculator App** | HTML · CSS · JS | ✅ Done | [View Repo](#) |
+| 📊 **Dashboard UI** | HTML · CSS · Grid | ✅ Done | [View Repo](#) |
+| 🏭 **Manufacturing Site** | Bootstrap · PHP | 🔜 Planned | [View Repo](#) |
 
 ---
 
-<br/>
+## 📊 GitHub Stats
 
-## 🚀 Projects
+<p align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=IbrahimMohsen305&show_icons=true&theme=github_dark&hide_border=false&border_color=0A2540&title_color=00B4D8&icon_color=00B4D8&text_color=CDD9E5&bg_color=0D1117&rank_icon=percentile&include_all_commits=true" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimMohsen305&layout=compact&theme=github_dark&hide_border=false&border_color=0A2540&title_color=00B4D8&text_color=CDD9E5&bg_color=0D1117&langs_count=6" />
+</p>
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🛒 E-Commerce Platform
-![Status](https://img.shields.io/badge/Status-In_Progress-F7DF1E?style=flat-square)
-
-Full e-commerce UI built with **Laravel + Bootstrap**. Features product listings, cart system, and responsive layout.
-
-`HTML` `CSS` `Bootstrap` `PHP` `Laravel` `MySQL`
-
-[→ View Repo](#)
-
-</td>
-<td align="center" width="50%">
-
-### 🧮 Calculator App
-![Status](https://img.shields.io/badge/Status-Shipped-00B4D8?style=flat-square)
-
-Clean, functional calculator with keyboard support and smooth UI interactions.
-
-`HTML` `CSS` `JavaScript`
-
-[→ View Repo](#)
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### 📊 Dashboard UI
-![Status](https://img.shields.io/badge/Status-Shipped-00B4D8?style=flat-square)
-
-Responsive admin dashboard layout using CSS Grid and Flexbox. Clean and minimal.
-
-`HTML` `CSS` `Grid`
-
-[→ View Repo](#)
-
-</td>
-<td align="center" width="50%">
-
-### 🌐 Dev Portfolio
-![Status](https://img.shields.io/badge/Status-Live-6C63FF?style=flat-square)
-
-Personal portfolio showcasing projects, skills, and contact info.
-
-`HTML` `CSS` `JavaScript`
-
-**[→ Live Site ↗](https://ibrahim-devportfolio.kesug.com/)**
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IbrahimMohsen305&theme=github-dark-blue&hide_border=false&stroke=0A2540&background=0D1117&ring=00B4D8&fire=FF6B6B&currStreakLabel=00B4D8&sideLabels=CDD9E5&dates=8B949E" />
+</p>
 
 ---
 
-<br/>
+## 🐍 Contribution Activity
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=IbrahimMohsen305&show_icons=true&theme=tokyonight&hide_border=true&title_color=6C63FF&icon_color=00B4D8&text_color=CDD9E5&bg_color=0D1117&rank_icon=percentile&include_all_commits=true&count_private=true" />
-&nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimMohsen305&layout=compact&theme=tokyonight&hide_border=true&title_color=6C63FF&text_color=CDD9E5&bg_color=0D1117&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IbrahimMohsen305&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=00B4D8&currStreakLabel=6C63FF" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
-
-<br/>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+    <img alt="snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
+</p>
 
 ---
 
-<br/>
+## 💬 Dev Philosophy
+
+> *"First, solve the problem. Then, write the code."*
+> — John Johnson
+
+I believe in building things that **work**, not just things that **look good**.  
+Every component has a reason. Every line of CSS earns its place.
+
+---
 
 ## 🤝 Let's Connect
 
-<div align="center">
-
-<a href="https://ibrahim-devportfolio.kesug.com/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-6C63FF?style=for-the-badge&labelColor=0D1117" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/IbrahimMohsen305">
-  <img src="https://img.shields.io/badge/GitHub-IbrahimMohsen305-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/ibrahim-mohsen-3bb548299/">
-  <img src="https://img.shields.io/badge/LinkedIn-Ibrahim_Mohsen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
-</a>
-&nbsp;
-<a href="mailto:ibrahimmohsen305@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=IbrahimMohsen305&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS&labelColor=0D1117"/>
-
-</div>
+<p align="center">
+  <a href="https://github.com/IbrahimMohsen305">
+    <img src="https://img.shields.io/badge/GitHub-IbrahimMohsen305-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0A2540&color=0D1117"/>
+  </a>
+  &nbsp;
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-Hire%20Me-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0A2540&color=0D1117"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0A2540&color=0D1117"/>
+  </a>
+</p>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:00B4D8,100:6C63FF&height=150&section=footer&animation=fadeIn"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IbrahimMohsen305&style=flat-square&color=00B4D8&label=PROFILE+VIEWS&labelColor=0A2540"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,50:0A2540,100:0D1117&height=120&section=footer&animation=fadeIn"/>
