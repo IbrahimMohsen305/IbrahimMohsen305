@@ -1,14 +1,3 @@
-# Hey 👋 I'm Ibrahim
-Full Stack Developer 💻
-
-## Skills
-- HTML / CSS / JS
-- Laravel / PHP
-- React
-
-## Projects
-- Calculator
-- Blog System
 <h1 align="center">Hi 👋, I'm Ibrahim</h1>
 <h3 align="center">Front-End Developer | Cyber Security Enthusiast | Problem Solver</h3>
 
